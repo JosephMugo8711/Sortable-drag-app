@@ -18,6 +18,7 @@ const SortableList = () => {
                     <li
                       key={index}
                       className='list-item'
+                      draggable
                     >
                         <span>{index}</span>
                         <h3>{sport}</h3>
