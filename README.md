@@ -1,11 +1,10 @@
-#   Sortable-drag
+#   Sortable-drag-App
 *****
 ### Author :
 1. Mugo Joseph Wamiti 
 ****
 ## Project Description
-
-
+The sortable drag app allows users to easily rearrange a list of favorite sports by dragging and dropping items. It enhances user experience by providing a simple and interactive way to manage the order of items in a list.
 
 ******
 *****
